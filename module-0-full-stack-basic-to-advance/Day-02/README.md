@@ -1,6 +1,6 @@
-# Day 02 
-## Topic: Module 0 : Extra Class on Javascript
-## Time: May 4, 2023 09:00 PM Astana, Dhaka
+## Day 02 
+### Topic: Module 0 : Extra Class on Javascript
+### Time: May 4, 2023 09:00 PM Astana, Dhaka
 
 # JS basics
 
