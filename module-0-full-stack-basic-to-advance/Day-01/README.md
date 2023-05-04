@@ -5,7 +5,7 @@
 
 ### Class Record Link: https://drive.google.com/drive/folders/1RrAV9TlVeZusTf-W9t3vyPboR7i22-yf?usp=share_link
 
-# Resources from yesterday's class; 
+# Resources from Day 01 class; 
 
 ## JavaScript Documentation:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
