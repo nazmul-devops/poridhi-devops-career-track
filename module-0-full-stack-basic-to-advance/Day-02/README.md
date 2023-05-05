@@ -2,6 +2,8 @@
 ### Topic: Module 0 : Extra Class on Javascript
 ### Time: May 4, 2023 09:00 PM Astana, Dhaka
 
+### Class Recording Link: https://drive.google.com/file/d/1aSLkuM4ZQfPIcoW06Jbl8nIOgO5ZiNpx/view?usp=share_link
+
 # JS basics
 
 ## 1. What is JavaScript?
