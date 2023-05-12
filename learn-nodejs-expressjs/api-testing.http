@@ -1,0 +1,24 @@
+GET http://localhost:3000/ 
+
+###
+POST   http://localhost:3000/
+Content-Type: application/json
+
+{
+  "title": "Hello",
+  "body": "World",
+  "userId": 2
+}
+
+###
+PUT  http://localhost:3000/
+Content-Type: application/json
+
+{
+    "full_Name": "Kaniz Sadia Tabassum Tonni",
+    "Age": 30,
+    "Profession": "Home Maker"
+}
+
+# ###
+# PATCH http://localhost:3000/html
